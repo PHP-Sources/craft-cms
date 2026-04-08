@@ -11,13 +11,13 @@
 - Performances optimisées
 - Sécurité renforcée
 
-### 📥 Téléchargement direct
+### 📥 Accès rapide aux fichiers
 
-**Téléchargez directement Craft CMS 5.9.19 via notre explorateur de fichiers :**
+**Explorez rapidement les fichiers de Craft CMS 5.9.19 via notre explorateur :**
 
-👉 **[📂 Télécharger Craft CMS 5.9.19 (.zip)](https://phpsources.net/x7g3p2.php?id=2109&name=CraftCMS-5.9.19.zip)**
+👉 **[📂 Explorer Craft CMS 5.9.19](https://phpsources.net/x7g3p2.php?id=2109&name=CraftCMS-5.9.19.zip)**
 
-**Ou retrouvez la fiche complète, les mises à jour et le support sur :**  
+**Et retrouvez la fiche complète, les mises à jour, le support et le téléchargement sur :**  
 👉 **[Craft CMS sur phpsources.net](https://phpsources.net/script/php/cms/2109-2_craft-cms,5.9.19)**
 
 ### Licence
@@ -29,6 +29,5 @@ Si ce CMS professionnel vous aide, n’hésitez pas à mettre une **star** ⭐ e
 ---
 
 **Découvrez des centaines d’autres scripts PHP open source sur → [phpsources.net](https://phpsources.net)**
----
 
 **Découvrez des centaines d’autres scripts PHP open source sur → [phpsources.net](https://phpsources.net)**
