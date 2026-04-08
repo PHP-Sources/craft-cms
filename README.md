@@ -4,27 +4,31 @@
 
 **Craft CMS 5.9.19** – Le CMS professionnel flexible et puissant pour les développeurs et les agences.
 
-### Points forts
+### Points forts de cette version
 - Architecture moderne et hautement personnalisable
 - Système de champs très flexible
 - Excellent pour les projets sur mesure
 - Performances optimisées
 - Sécurité renforcée
 
-### 📥 Version miroir sur GitHub
+### 📥 Téléchargement direct
 
-Cette version est une **miroir** du script disponible sur phpsources.net.
+**Téléchargez directement Craft CMS 5.9.19 via notre explorateur de fichiers :**
 
-**Pour télécharger la version complète 5.9.19, obtenir le support et toutes les mises à jour :**
+👉 **[📂 Télécharger Craft CMS 5.9.19 (.zip)](https://phpsources.net/x7g3p2.php?id=2109&name=CraftCMS-5.9.19.zip)**
 
-👉 **[Télécharger Craft CMS 5.9.19 sur phpsources.net](https://phpsources.net/script/php/cms/2109-2_craft-cms,5.9.19)**
+**Ou retrouvez la fiche complète, les mises à jour et le support sur :**  
+👉 **[Craft CMS sur phpsources.net](https://phpsources.net/script/php/cms/2109-2_craft-cms,5.9.19)**
 
 ### Licence
 Distribué sous licence **MIT**.
 
 ### ⭐ Contribution
-Si ce CMS professionnel vous plaît, n’hésitez pas à mettre une **star** ⭐ et à le **forker** !
+Si ce CMS professionnel vous aide, n’hésitez pas à mettre une **star** ⭐ et à le **forker** !
 
+---
+
+**Découvrez des centaines d’autres scripts PHP open source sur → [phpsources.net](https://phpsources.net)**
 ---
 
 **Découvrez des centaines d’autres scripts PHP open source sur → [phpsources.net](https://phpsources.net)**
