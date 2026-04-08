@@ -30,5 +30,3 @@ Si ce CMS professionnel vous aide, n’hésitez pas à mettre une **star** ⭐ e
 ---
 
 **Découvrez des centaines d’autres scripts PHP open source sur → [phpsources.net](https://phpsources.net)**
-
-**Découvrez des centaines d’autres scripts PHP open source sur → [phpsources.net](https://phpsources.net)**
